@@ -38,3 +38,6 @@ Scholars tend to lose track of their spending when buying something from the can
 - Budget status
 
 ## Project Proposal
+
+[View Project Proposal]
+(Q1ProjectProposal.pdf)
